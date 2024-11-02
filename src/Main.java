@@ -5,16 +5,16 @@ public class Main {
 
         Scanner sc = new Scanner(System.in);
 
-        int x = sc.nextInt();
+        int scPassword = sc.nextInt();
 
-        int sum = 0;
+        int password = 2002;
 
-        while (x != 0) {
-            sum += x;
-            x = sc.nextInt();
+        while (scPassword != password) {
+            System.out.println("Senha inválida");
+           scPassword = sc.nextInt();
         }
 
-        System.out.println(sum);
+        System.out.println("Acesso Permitido");
 
         sc.close();
     }
