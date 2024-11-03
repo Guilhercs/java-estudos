@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class forExample {
+public class ForExample {
     public static void main(String[] args) {
 
 //        sintaxe/regra
