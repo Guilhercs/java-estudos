@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e2ae30f4-05ec-4853-a21e-4767ecaab575" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/entities/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StockChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stock/Product.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +38,7 @@
     "Application.BitABit.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Program.executor": "Run",
+    "Application.StockChallenge.executor": "Run",
     "Application.doWhile.executor": "Run",
     "Application.forExample.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -51,16 +52,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Program">
+  <component name="RunManager" selected="Application.StockChallenge">
     <configuration name="BitABit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BitABit" />
-      <module name="Estudos-java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Estudos-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,6 +69,13 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StockChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StockChallenge" />
+      <module name="Estudos-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -108,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StockChallenge" />
         <item itemvalue="Application.Program" />
         <item itemvalue="Application.BitABit" />
         <item itemvalue="Application.doWhile" />
         <item itemvalue="Application.forExample" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -134,7 +135,7 @@
       <updated>1730586308807</updated>
       <workItem from="1730586309887" duration="2299000" />
       <workItem from="1730642295939" duration="1522000" />
-      <workItem from="1730666053178" duration="5415000" />
+      <workItem from="1730666053178" duration="7454000" />
     </task>
     <servers />
   </component>
