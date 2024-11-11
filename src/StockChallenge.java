@@ -13,10 +13,9 @@ public class StockChallenge {
         String name = sc.next();
         System.out.print("Enter product price: ");
         double price = sc.nextDouble();
-        System.out.print("Enter product quantity: ");
-        int quantity = sc.nextInt();
+        Product product = new Product(name, price);
 
-        Product product = new Product(name, price, quantity);
+        //Product product = new Product(name, price, quantity);
 
         System.out.printf("Product data: %s, $ %.2f, %s units, Total: $ %.2f%n", product.name, product.price, product.quantity, product.totalValueInStock());
 
