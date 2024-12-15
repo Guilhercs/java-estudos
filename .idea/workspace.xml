@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e2ae30f4-05ec-4853-a21e-4767ecaab575" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/EntitiesProducts/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Program.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StockChallenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StockChallenge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stock/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stock/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vetor/Vetor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vetor/Vetor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +25,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../../../../Program Files (x86)/Java/jdk-1.8/src.zip!/java/util/InputMismatchException.java" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -33,26 +37,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.BitABit.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Program.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StockChallenge.executor&quot;: &quot;Run&quot;,
-    &quot;Application.doWhile.executor&quot;: &quot;Run&quot;,
-    &quot;Application.forExample.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BitABit.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Program.executor": "Run",
+    "Application.StockChallenge.executor": "Debug",
+    "Application.Vetor.executor": "Run",
+    "Application.doWhile.executor": "Run",
+    "Application.forExample.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/guilh/OneDrive/Área de Trabalho/KeystrokeModelInsertionDatabaseFunction-619e90c7-8acd-403a-b23d-5659d6a0e1e6",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.inline.completion",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.StockChallenge">
+}]]></component>
+  <component name="RunManager">
     <configuration name="BitABit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BitABit" />
       <module name="Estudos-java" />
@@ -125,7 +132,10 @@
       <workItem from="1730666053178" duration="7454000" />
       <workItem from="1730764316455" duration="997000" />
       <workItem from="1731180267901" duration="1725000" />
-      <workItem from="1731282772124" duration="2144000" />
+      <workItem from="1731282772124" duration="2652000" />
+      <workItem from="1732118486716" duration="998000" />
+      <workItem from="1732144358204" duration="104000" />
+      <workItem from="1734302800923" duration="4592000" />
     </task>
     <servers />
   </component>
